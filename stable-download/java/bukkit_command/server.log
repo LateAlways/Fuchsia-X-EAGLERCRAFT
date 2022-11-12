@@ -1,0 +1,533 @@
+2022-09-03 19:03:17 [INFO] Starting minecraft server version 1.5.2
+2022-09-03 19:03:17 [INFO] Loading properties
+2022-09-03 19:03:17 [INFO] Default game type: SURVIVAL
+2022-09-03 19:03:17 [INFO] Generating keypair
+2022-09-03 19:03:17 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2022-09-03 19:03:18 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2022-09-03 19:03:18 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (The system cannot find the file specified)
+2022-09-03 19:03:18 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (The system cannot find the file specified)
+2022-09-03 19:03:18 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-09-03 19:03:18 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-09-03 19:03:18 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-09-03 19:03:18 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-09-03 19:03:18 [INFO] Preparing level "world"
+2022-09-03 19:03:18 [INFO] Preparing start region for level 0 (Seed: 1198178242123673248)
+2022-09-03 19:03:18 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: IOException
+2022-09-03 19:03:18 [WARNING] Could not get latest artifact information: IOException
+2022-09-03 19:03:19 [INFO] Preparing spawn area: 8%
+2022-09-03 19:03:20 [INFO] Preparing spawn area: 33%
+2022-09-03 19:03:21 [INFO] Preparing spawn area: 58%
+2022-09-03 19:03:22 [INFO] Preparing spawn area: 83%
+2022-09-03 19:03:23 [INFO] Preparing start region for level 1 (Seed: 1198178242123673248)
+2022-09-03 19:03:23 [INFO] Preparing spawn area: 4%
+2022-09-03 19:03:24 [INFO] Preparing spawn area: 45%
+2022-09-03 19:03:25 [INFO] Preparing spawn area: 78%
+2022-09-03 19:03:26 [INFO] Preparing start region for level 2 (Seed: 1198178242123673248)
+2022-09-03 19:03:26 [INFO] Preparing spawn area: 25%
+2022-09-03 19:03:27 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-09-03 19:03:27 [INFO] Done (9.399s)! For help, type "help" or "?"
+2022-09-03 19:03:27 [INFO] Crash Loop Detector is Running! (30sec)
+
+2022-09-03 19:03:27 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+
+2022-09-03 19:07:07 [INFO] LateAlways[/127.0.0.1:60319] logged in with entity id 6318 at ([world] 67.5, 64.0, 247.5)
+2022-09-03 19:07:27 [WARNING] LateAlways was kicked for floating too long!
+2022-09-03 19:27:56 [INFO] Starting minecraft server version 1.5.2
+2022-09-03 19:27:56 [INFO] Loading properties
+2022-09-03 19:27:56 [INFO] Default game type: SURVIVAL
+2022-09-03 19:27:56 [INFO] Generating keypair
+2022-09-03 19:27:56 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2022-09-03 19:27:56 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2022-09-03 19:27:56 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-09-03 19:27:56 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-09-03 19:27:56 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-09-03 19:27:56 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-09-03 19:27:56 [INFO] Preparing level "world"
+2022-09-03 19:27:56 [WARNING] Unable to find spawn biome
+2022-09-03 19:27:57 [INFO] Preparing start region for level 0 (Seed: 692305234193859100)
+2022-09-03 19:27:57 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: IOException
+2022-09-03 19:27:57 [WARNING] Could not get latest artifact information: IOException
+2022-09-03 19:27:58 [INFO] Preparing spawn area: 37%
+2022-09-03 19:27:59 [INFO] Preparing spawn area: 87%
+2022-09-03 19:27:59 [INFO] Preparing start region for level 1 (Seed: 692305234193859100)
+2022-09-03 19:27:59 [INFO] Preparing start region for level 2 (Seed: 692305234193859100)
+2022-09-03 19:27:59 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-09-03 19:27:59 [INFO] Done (2.872s)! For help, type "help" or "?"
+2022-09-03 19:27:59 [INFO] Crash Loop Detector is Running! (30sec)
+
+2022-09-03 19:27:59 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+
+2022-09-03 19:28:07 [INFO] feelingBlessed[/127.0.0.1:56182] logged in with entity id 3520 at ([world] -20.5, 70.0, 95.5)
+2022-09-03 19:28:16 [WARNING] feelingBlessed was kicked for floating too long!
+2022-09-03 19:28:19 [INFO] feelingBlessed[/127.0.0.1:56209] logged in with entity id 4033 at ([world] -24.27881640411508, 96.94701808427658, 87.61425925687773)
+2022-09-03 19:28:20 [INFO] feelingBlessed fell from a high place
+2022-09-03 19:28:35 [WARNING] feelingBlessed was kicked for floating too long!
+2022-09-03 19:28:49 [INFO] feelingBlessed[/127.0.0.1:56226] logged in with entity id 4263 at ([world] -39.72276295303162, 115.12639308171204, 65.73380843183762)
+2022-09-03 19:29:00 [WARNING] feelingBlessed was kicked for floating too long!
+2022-09-03 19:29:31 [INFO] feelingBlessed[/127.0.0.1:56270] logged in with entity id 4531 at ([world] -39.37179926705329, 81.58365674908995, 61.184703063702315)
+2022-09-03 19:29:38 [WARNING] feelingBlessed was kicked for floating too long!
+2022-09-03 19:29:40 [INFO] feelingBlessed[/127.0.0.1:56698] logged in with entity id 4617 at ([world] -44.74351128706004, 66.32366458908882, 60.73797641276623)
+2022-09-03 19:29:47 [WARNING] feelingBlessed was kicked for floating too long!
+2022-09-03 19:32:34 [INFO] feelingBlessed[/127.0.0.1:58070] logged in with entity id 4677 at ([world] -55.754860466661604, 74.44130731835851, 68.56751431314686)
+2022-09-03 19:32:44 [WARNING] feelingBlessed was kicked for floating too long!
+2022-09-03 19:32:51 [INFO] feelingBlessed[/127.0.0.1:58081] logged in with entity id 4836 at ([world] -103.55219104621523, 72.49947956560514, 106.70774877487587)
+2022-09-03 19:33:11 [WARNING] feelingBlessed was kicked for floating too long!
+2022-09-03 19:33:13 [INFO] feelingBlessed[/127.0.0.1:58091] logged in with entity id 5144 at ([world] -107.83537291480962, 64.65453091756277, 186.77391889488476)
+2022-09-03 19:36:46 [INFO] feelingBlessed[/127.0.0.1:58164] logged in with entity id 7231 at ([world] -65.20560067574533, 62.0, 205.88329803512528)
+2022-09-03 19:36:48 [INFO] Connection reset
+2022-09-03 19:38:17 [WARNING] feelingBlessed was kicked for floating too long!
+2022-09-03 19:38:35 [INFO] feelingBlessed[/127.0.0.1:59714] logged in with entity id 9038 at ([world] 39.82930601408389, 64.51900712859228, 43.02106200480355)
+2022-09-03 19:39:37 [WARNING] feelingBlessed was kicked for floating too long!
+2022-09-03 19:39:39 [INFO] feelingBlessed[/127.0.0.1:59739] logged in with entity id 9728 at ([world] -152.5621853605354, 64.37737647870573, 110.37311754302718)
+2022-09-03 19:40:35 [WARNING] feelingBlessed was kicked for floating too long!
+2022-09-03 19:40:55 [INFO] feelingBlessed[/127.0.0.1:59752] logged in with entity id 10131 at ([world] -149.5087909276943, 71.7726748159999, 169.76014840844692)
+2022-09-03 19:41:04 [WARNING] feelingBlessed was kicked for floating too long!
+2022-09-04 09:36:22 [INFO] Starting minecraft server version 1.5.2
+2022-09-04 09:36:22 [INFO] Loading properties
+2022-09-04 09:36:22 [INFO] Default game type: SURVIVAL
+2022-09-04 09:36:22 [INFO] Generating keypair
+2022-09-04 09:36:22 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2022-09-04 09:36:22 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2022-09-04 09:36:22 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-09-04 09:36:22 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-09-04 09:36:22 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-09-04 09:36:22 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-09-04 09:36:22 [INFO] Preparing level "world"
+2022-09-04 09:36:23 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: IOException
+2022-09-04 09:36:23 [INFO] Preparing start region for level 0 (Seed: -1319282542651693724)
+2022-09-04 09:36:23 [WARNING] Could not get latest artifact information: IOException
+2022-09-04 09:36:24 [INFO] Preparing spawn area: 62%
+2022-09-04 09:36:24 [INFO] Preparing start region for level 1 (Seed: -1319282542651693724)
+2022-09-04 09:36:24 [INFO] Preparing start region for level 2 (Seed: -1319282542651693724)
+2022-09-04 09:36:24 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-09-04 09:36:24 [INFO] Done (2.047s)! For help, type "help" or "?"
+2022-09-04 09:36:25 [INFO] Crash Loop Detector is Running! (30sec)
+
+2022-09-04 09:36:25 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+
+2022-09-04 09:42:30 [INFO] aroundThe[/127.0.0.1:55971] logged in with entity id 1478 at ([world] 18.5, 71.0, 216.5)
+2022-09-04 09:54:28 [WARNING] aroundThe was kicked for floating too long!
+2022-09-04 09:54:32 [INFO] aroundThe[/127.0.0.1:56147] logged in with entity id 9255 at ([world] -0.2400041223275885, 65.38444783056585, 174.34030279957665)
+2022-09-04 09:54:35 [WARNING] aroundThe moved wrongly!
+2022-09-04 10:00:18 [INFO] aroundThe went up in flames
+2022-09-04 10:00:26 [WARNING] aroundThe moved wrongly!
+2022-09-04 10:07:13 [WARNING] aroundThe moved wrongly!
+2022-09-04 10:07:16 [WARNING] aroundThe moved wrongly!
+2022-09-04 10:07:28 [WARNING] aroundThe moved wrongly!
+2022-09-04 10:07:31 [WARNING] aroundThe was kicked for floating too long!
+2022-09-04 10:07:35 [INFO] aroundThe[/127.0.0.1:49840] logged in with entity id 19502 at ([world] -36.80432639078154, 69.67949181702873, 129.64394080797248)
+2022-09-04 10:07:46 [WARNING] aroundThe moved wrongly!
+2022-09-04 10:08:14 [INFO] 229 recipes
+
+2022-09-04 10:08:14 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-09-04 10:08:14 [INFO] CONSOLE: [0;32;1mReload complete.[m
+
+2022-09-04 10:19:58 [INFO] feel[/127.0.0.1:51431] logged in with entity id 62679 at ([world] 18.5, 70.0, 214.5)
+2022-09-04 10:20:24 [INFO] feeling[/127.0.0.1:52748] logged in with entity id 75254 at ([world] 19.5, 71.0, 218.5)
+2022-09-04 10:21:23 [INFO] good[/127.0.0.1:52779] logged in with entity id 120117 at ([world] 15.5, 70.0, 211.5)
+2022-09-04 10:21:48 [INFO] like[/127.0.0.1:52805] logged in with entity id 148867 at ([world] 28.5, 71.0, 218.5)
+2022-09-04 10:22:04 [WARNING] good moved too quickly! -588.7999999999992,-131.11093007836843,-211.5 (588.7999999999992, 131.11093007836843, 211.5)
+2022-09-04 10:22:19 [INFO] good[/127.0.0.1:52851] logged in with entity id 182355 at ([world] 588.7999999999992, 129.49093007360005, 211.5)
+2022-09-04 10:22:21 [INFO] Connection reset
+2022-09-04 10:22:44 [INFO] ogg[/127.0.0.1:52878] logged in with entity id 201719 at ([world] 17.5, 70.0, 214.5)
+2022-09-04 10:23:34 [INFO] ong[/127.0.0.1:52914] logged in with entity id 265286 at ([world] 30.5, 71.0, 220.5)
+2022-09-04 10:30:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2022-09-04 10:30:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2022-09-04 10:31:11 [SEVERE] Exception in thread "Connection #6 read thread" 
+2022-09-04 10:31:11 [SEVERE] java.lang.OutOfMemoryError: Java heap space
+
+2022-09-04 10:31:11 [SEVERE] 	at jdk.internal.reflect.GeneratedConstructorAccessor15.newInstance(Unknown Source)
+
+2022-09-04 10:31:11 [SEVERE] 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+
+2022-09-04 10:31:11 [SEVERE] 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+
+2022-09-04 10:31:11 [SEVERE] 	at java.base/java.lang.reflect.ReflectAccess.newInstance(ReflectAccess.java:128)
+
+2022-09-04 10:31:11 [SEVERE] 	at java.base/jdk.internal.reflect.ReflectionFactory.newInstance(ReflectionFactory.java:347)
+
+2022-09-04 10:31:11 [SEVERE] 	at java.base/java.lang.Class.newInstance(Class.java:645)
+
+2022-09-04 10:31:11 [SEVERE] 	at net.minecraft.server.v1_5_R3.Packet.a(Unknown Source)
+
+2022-09-04 10:31:11 [SEVERE] 	at net.minecraft.server.v1_5_R3.Packet.a(Unknown Source)
+
+2022-09-04 10:31:11 [SEVERE] 	at net.minecraft.server.v1_5_R3.NetworkManager.i(NetworkManager.java:192)
+
+2022-09-04 10:31:11 [SEVERE] 	at net.minecraft.server.v1_5_R3.NetworkManager.c(NetworkManager.java:346)
+
+2022-09-04 10:31:11 [SEVERE] 	at net.minecraft.server.v1_5_R3.NetworkReaderThread.run(SourceFile:94)
+
+2022-09-04 10:31:11 [WARNING] Failed to handle packet for aroundThe/127.0.0.1: net.minecraft.server.v1_5_R3.ReportedException: Exception generating new chunk
+net.minecraft.server.v1_5_R3.ReportedException: Exception generating new chunk
+	at net.minecraft.server.v1_5_R3.ChunkProviderServer.getChunkAt(ChunkProviderServer.java:119)
+	at net.minecraft.server.v1_5_R3.PlayerChunk.<init>(PlayerChunk.java:24)
+	at net.minecraft.server.v1_5_R3.PlayerChunkMap.a(PlayerChunkMap.java:69)
+	at net.minecraft.server.v1_5_R3.PlayerChunkMap.b(PlayerChunkMap.java:144)
+	at net.minecraft.server.v1_5_R3.PlayerChunkMap.movePlayer(PlayerChunkMap.java:220)
+	at net.minecraft.server.v1_5_R3.PlayerList.d(PlayerList.java:246)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.a(Unknown Source)
+	at net.minecraft.server.v1_5_R3.Packet10Flying.handle(SourceFile:136)
+	at net.minecraft.server.v1_5_R3.NetworkManager.b(NetworkManager.java:292)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.d(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ServerConnection.b(SourceFile:35)
+	at net.minecraft.server.v1_5_R3.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.r(Unknown Source)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:226)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+	at net.minecraft.server.v1_5_R3.ChunkProviderGenerate.getOrCreateChunk(SourceFile:210)
+	at org.bukkit.craftbukkit.v1_5_R3.generator.NormalChunkGenerator.getOrCreateChunk(NormalChunkGenerator.java:41)
+	at net.minecraft.server.v1_5_R3.ChunkProviderServer.getChunkAt(ChunkProviderServer.java:111)
+	... 16 more
+2022-09-04 10:31:12 [SEVERE] Exception in thread "File IO Thread" 
+2022-09-04 10:31:12 [SEVERE] java.lang.OutOfMemoryError: Java heap space
+
+2022-09-04 10:31:12 [WARNING] Failed to handle packet for feel/127.0.0.1: java.lang.ArrayIndexOutOfBoundsException: Index -17 out of bounds for length 0
+java.lang.ArrayIndexOutOfBoundsException: Index -17 out of bounds for length 0
+	at net.minecraft.server.v1_5_R3.CrashReport.a(CrashReport.java:173)
+	at net.minecraft.server.v1_5_R3.CrashReport.a(CrashReport.java:160)
+	at net.minecraft.server.v1_5_R3.ChunkProviderServer.getChunkAt(ChunkProviderServer.java:114)
+	at net.minecraft.server.v1_5_R3.PlayerChunk.<init>(PlayerChunk.java:24)
+	at net.minecraft.server.v1_5_R3.PlayerChunkMap.a(PlayerChunkMap.java:69)
+	at net.minecraft.server.v1_5_R3.PlayerChunkMap.b(PlayerChunkMap.java:144)
+	at net.minecraft.server.v1_5_R3.PlayerChunkMap.movePlayer(PlayerChunkMap.java:220)
+	at net.minecraft.server.v1_5_R3.PlayerList.d(PlayerList.java:246)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.a(Unknown Source)
+	at net.minecraft.server.v1_5_R3.Packet10Flying.handle(SourceFile:136)
+	at net.minecraft.server.v1_5_R3.NetworkManager.b(NetworkManager.java:292)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.d(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ServerConnection.b(SourceFile:35)
+	at net.minecraft.server.v1_5_R3.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.r(Unknown Source)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:226)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+2022-09-04 10:31:16 [INFO] Stopping server
+2022-09-04 10:31:16 [SEVERE] Exception in thread "Connection #8 read thread" 
+2022-09-04 10:31:16 [INFO] Saving players
+2022-09-04 10:31:16 [SEVERE] Exception in thread "Connection #9 read thread" 
+2022-09-04 10:31:16 [WARNING] DSCT: Socket closed
+2022-09-04 10:31:16 [SEVERE] java.lang.OutOfMemoryError: Java heap space
+
+2022-09-04 10:31:16 [INFO] Closing listening thread
+2022-09-04 10:31:16 [SEVERE] java.lang.OutOfMemoryError: Java heap space
+
+2022-09-04 10:31:17 [INFO] Saving worlds
+2022-09-04 10:31:17 [INFO] Saving chunks for level 'world'/Overworld
+2022-10-09 17:12:30 [INFO] Starting minecraft server version 1.5.2
+2022-10-09 17:12:30 [INFO] Loading properties
+2022-10-09 17:12:30 [INFO] Default game type: SURVIVAL
+2022-10-09 17:12:30 [INFO] Generating keypair
+2022-10-09 17:12:31 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2022-10-09 17:12:31 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2022-10-09 17:12:31 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-10-09 17:12:31 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-10-09 17:12:31 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-10-09 17:12:31 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-10-09 17:12:31 [INFO] Preparing level "world"
+2022-10-09 17:12:31 [INFO] Preparing start region for level 0 (Seed: -1319282542651693724)
+2022-10-09 17:12:31 [SEVERE] Exception in thread "Thread-5" 
+2022-10-09 17:12:31 [SEVERE] org.bukkit.craftbukkit.libs.com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 7
+
+2022-10-09 17:12:31 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:180)
+
+2022-10-09 17:12:31 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.Gson.fromJson(Gson.java:755)
+
+2022-10-09 17:12:31 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.Gson.fromJson(Gson.java:694)
+
+2022-10-09 17:12:31 [SEVERE] 	at org.bukkit.craftbukkit.v1_5_R3.updater.BukkitDLUpdaterService.fetchArtifact(BukkitDLUpdaterService.java:51)
+
+2022-10-09 17:12:31 [SEVERE] 	at org.bukkit.craftbukkit.v1_5_R3.updater.BukkitDLUpdaterService.getArtifact(BukkitDLUpdaterService.java:28)
+
+2022-10-09 17:12:31 [SEVERE] 	at org.bukkit.craftbukkit.v1_5_R3.updater.AutoUpdater$1.run(AutoUpdater.java:77)
+
+2022-10-09 17:12:31 [SEVERE] Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 7
+
+2022-10-09 17:12:31 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.stream.JsonReader.expect(JsonReader.java:339)
+
+2022-10-09 17:12:31 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.stream.JsonReader.beginObject(JsonReader.java:322)
+
+2022-10-09 17:12:31 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:168)
+
+2022-10-09 17:12:31 [SEVERE] 	... 5 more
+
+2022-10-09 17:12:32 [INFO] Preparing spawn area: 74%
+2022-10-09 17:12:32 [INFO] Preparing start region for level 1 (Seed: 1398482880909492543)
+2022-10-09 17:12:33 [INFO] Preparing start region for level 2 (Seed: 1398482880909492543)
+2022-10-09 17:12:33 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-10-09 17:12:33 [INFO] Done (1.904s)! For help, type "help" or "?"
+2022-10-09 17:12:33 [INFO] Crash Loop Detector is Running! (30sec)
+
+2022-10-09 17:12:33 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+
+2022-10-09 17:12:43 [INFO] CONSOLE: Set difficulty to PEACEFUL[m
+
+2022-10-09 17:12:54 [INFO] HotMom83[/127.0.0.1:59263] logged in with entity id 794 at ([world] 33.5, 71.0, 217.5)
+2022-10-09 17:13:20 [INFO] HotMom83 lost connection: disconnect.quitting
+2022-10-09 17:13:20 [INFO] Connection reset
+2022-10-09 17:13:32 [INFO] LateAlways[/127.0.0.1:59707] logged in with entity id 6667 at ([world] 81.55099176084963, 77.40000000000019, 240.0114255499508)
+2022-10-09 17:15:06 [INFO] [0;31;1mIncorrect usage. Correct usage:
+/time set <value>
+/time add <value>[m
+
+2022-10-09 17:15:09 [INFO] [0;31;1mIncorrect usage. Correct usage:
+/time set <value>
+/time add <value>[m
+
+2022-10-09 17:15:12 [INFO] CONSOLE: Set time to 0[m
+
+2022-10-09 17:15:19 [INFO] [0;31;1mUsage: /gamerule <rule name> <value> OR /gamerule <rule name>[m
+
+2022-10-09 17:15:19 [INFO] Rules: commandBlockOutput, doFireTick, doMobLoot, doMobSpawning, doTileDrops, keepInventory, mobGriefing[m
+
+2022-10-09 17:15:36 [INFO] There's no item called enchanting_table[m
+
+2022-10-09 17:15:44 [INFO] There's no item called enchant_table[m
+
+2022-10-09 17:16:22 [INFO] There's no item called enchantment[m
+
+2022-10-09 17:16:26 [INFO] [0;31;1mUsage: /give <player> <item> [amount [data]][m
+
+2022-10-09 17:17:42 [INFO] Can't find player 1[m
+
+2022-10-09 17:17:48 [INFO] CONSOLE: Set LateAlways's game mode to CREATIVE mode[m
+
+2022-10-09 17:20:22 [INFO] CONSOLE: Stopping the server..[m
+
+2022-10-09 17:20:22 [INFO] Stopping server
+2022-10-09 17:20:22 [INFO] Saving players
+2022-10-09 17:20:22 [WARNING] DSCT: Socket closed
+2022-10-09 17:20:22 [INFO] Closing listening thread
+2022-10-09 17:20:22 [INFO] Saving worlds
+2022-10-09 17:20:22 [INFO] Saving chunks for level 'world'/Overworld
+2022-10-09 17:20:22 [INFO] Saving chunks for level 'world_nether'/Nether
+2022-10-09 17:20:22 [INFO] Saving chunks for level 'world_the_end'/The End
+2022-10-09 17:20:30 [INFO] Starting minecraft server version 1.5.2
+2022-10-09 17:20:30 [INFO] Loading properties
+2022-10-09 17:20:30 [INFO] Default game type: SURVIVAL
+2022-10-09 17:20:30 [INFO] Generating keypair
+2022-10-09 17:20:30 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2022-10-09 17:20:30 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2022-10-09 17:20:30 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-10-09 17:20:30 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-10-09 17:20:30 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-10-09 17:20:30 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-10-09 17:20:30 [INFO] Preparing level "world"
+2022-10-09 17:20:30 [INFO] Preparing start region for level 0 (Seed: -1319282542651693724)
+2022-10-09 17:20:31 [SEVERE] Exception in thread "Thread-5" 
+2022-10-09 17:20:31 [SEVERE] org.bukkit.craftbukkit.libs.com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 7
+
+2022-10-09 17:20:31 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:180)
+
+2022-10-09 17:20:31 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.Gson.fromJson(Gson.java:755)
+
+2022-10-09 17:20:31 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.Gson.fromJson(Gson.java:694)
+
+2022-10-09 17:20:31 [SEVERE] 	at org.bukkit.craftbukkit.v1_5_R3.updater.BukkitDLUpdaterService.fetchArtifact(BukkitDLUpdaterService.java:51)
+
+2022-10-09 17:20:31 [SEVERE] 	at org.bukkit.craftbukkit.v1_5_R3.updater.BukkitDLUpdaterService.getArtifact(BukkitDLUpdaterService.java:28)
+
+2022-10-09 17:20:31 [SEVERE] 	at org.bukkit.craftbukkit.v1_5_R3.updater.AutoUpdater$1.run(AutoUpdater.java:77)
+
+2022-10-09 17:20:31 [SEVERE] Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 7
+
+2022-10-09 17:20:31 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.stream.JsonReader.expect(JsonReader.java:339)
+
+2022-10-09 17:20:31 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.stream.JsonReader.beginObject(JsonReader.java:322)
+
+2022-10-09 17:20:31 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:168)
+
+2022-10-09 17:20:31 [SEVERE] 	... 5 more
+
+2022-10-09 17:20:31 [INFO] Preparing start region for level 1 (Seed: 1398482880909492543)
+2022-10-09 17:20:31 [INFO] Preparing start region for level 2 (Seed: 1398482880909492543)
+2022-10-09 17:20:31 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-10-09 17:20:31 [INFO] Done (0.839s)! For help, type "help" or "?"
+2022-10-09 17:20:31 [INFO] Crash Loop Detector is Running! (30sec)
+
+2022-10-09 17:20:31 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+
+2022-10-09 17:20:34 [INFO] CONSOLE: Stopping the server..[m
+
+2022-10-09 17:20:34 [INFO] Stopping server
+2022-10-09 17:20:34 [INFO] Saving players
+2022-10-09 17:20:34 [WARNING] DSCT: Socket closed
+2022-10-09 17:20:34 [INFO] Saving worlds
+2022-10-09 17:20:34 [INFO] Closing listening thread
+2022-10-09 17:20:34 [INFO] Saving chunks for level 'world'/Overworld
+2022-10-09 17:20:34 [INFO] Saving chunks for level 'world_nether'/Nether
+2022-10-09 17:20:34 [INFO] Saving chunks for level 'world_the_end'/The End
+2022-10-09 17:20:34 [INFO] Stopping server
+2022-10-09 17:21:01 [INFO] Starting minecraft server version 1.5.2
+2022-10-09 17:21:01 [INFO] Loading properties
+2022-10-09 17:21:01 [INFO] Default game type: SURVIVAL
+2022-10-09 17:21:01 [INFO] Generating keypair
+2022-10-09 17:21:01 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2022-10-09 17:21:01 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2022-10-09 17:21:01 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2022-10-09 17:21:01 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2022-10-09 17:21:01 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2022-10-09 17:21:01 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2022-10-09 17:21:01 [INFO] Preparing level "world"
+2022-10-09 17:21:01 [INFO] Preparing start region for level 0 (Seed: -1319282542651693724)
+2022-10-09 17:21:01 [SEVERE] Exception in thread "Thread-5" 
+2022-10-09 17:21:01 [SEVERE] org.bukkit.craftbukkit.libs.com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 7
+
+2022-10-09 17:21:01 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:180)
+
+2022-10-09 17:21:01 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.Gson.fromJson(Gson.java:755)
+
+2022-10-09 17:21:01 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.Gson.fromJson(Gson.java:694)
+
+2022-10-09 17:21:01 [SEVERE] 	at org.bukkit.craftbukkit.v1_5_R3.updater.BukkitDLUpdaterService.fetchArtifact(BukkitDLUpdaterService.java:51)
+
+2022-10-09 17:21:01 [SEVERE] 	at org.bukkit.craftbukkit.v1_5_R3.updater.BukkitDLUpdaterService.getArtifact(BukkitDLUpdaterService.java:28)
+
+2022-10-09 17:21:01 [SEVERE] 	at org.bukkit.craftbukkit.v1_5_R3.updater.AutoUpdater$1.run(AutoUpdater.java:77)
+
+2022-10-09 17:21:01 [SEVERE] Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 7
+
+2022-10-09 17:21:01 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.stream.JsonReader.expect(JsonReader.java:339)
+
+2022-10-09 17:21:01 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.stream.JsonReader.beginObject(JsonReader.java:322)
+
+2022-10-09 17:21:01 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:168)
+
+2022-10-09 17:21:01 [SEVERE] 	... 5 more
+
+2022-10-09 17:21:02 [INFO] Preparing start region for level 1 (Seed: 1398482880909492543)
+2022-10-09 17:21:02 [INFO] Preparing start region for level 2 (Seed: 1398482880909492543)
+2022-10-09 17:21:02 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2022-10-09 17:21:02 [INFO] Done (0.829s)! For help, type "help" or "?"
+2022-10-09 17:21:02 [INFO] Crash Loop Detector is Running! (30sec)
+
+2022-10-09 17:21:02 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+
+2022-10-09 17:21:04 [INFO] LateAlways[/127.0.0.1:60533] logged in with entity id 246 at ([world] 4.411658304870603, 83.548623549899, 73.27044054769381)
+2022-10-09 17:25:43 [INFO] There's no item called wooden_sword[m
+
+2022-10-09 17:25:56 [INFO] There's no item called sword[m
+
+2022-10-09 17:26:07 [INFO] CONSOLE: Gave LateAlways some 268 (WOOD_SWORD)[m
+
+2022-10-09 17:26:18 [INFO] CONSOLE: Gave LateAlways some 268 (WOOD_SWORD)[m
+
+2022-10-09 17:26:30 [INFO] CONSOLE: Gave LateAlways some 268 (WOOD_SWORD)[m
+
+2022-10-09 17:27:02 [INFO] CONSOLE: Set LateAlways's game mode to SURVIVAL mode[m
+
+2022-10-09 17:27:08 [INFO] Can't find player, was one provided?
+[0;31;1mUsage: /xp <amount> [player] OR /xp <amount>L [player][m
+
+2022-10-09 17:27:16 [INFO] CONSOLE: Given 1000 experience to LateAlways[m
+
+2022-10-09 17:29:15 [INFO] [0;31;1mTaking experience can only be done by levels, cannot give players negative experience points[m
+
+2022-10-09 17:29:37 [INFO] [0;31;1mTaking experience can only be done by levels, cannot give players negative experience points[m
+
+2022-10-09 17:29:42 [INFO] CONSOLE: Given 9999999 experience to LateAlways[m
+
+2022-10-09 17:29:44 [INFO] Unknown command. Type "help" for help.[m
+
+2022-10-09 17:29:45 [INFO] Unknown command. Type "help" for help.[m
+
+2022-10-09 17:29:56 [INFO] CONSOLE: Given 999999999 experience to LateAlways[m
+
+2022-10-09 17:35:40 [INFO] LateAlways lost connection: disconnect.quitting
+2022-10-09 17:35:40 [INFO] Connection reset
+2022-10-09 17:35:47 [INFO] LateAlways[/127.0.0.1:57519] logged in with entity id 9311 at ([world] -45.71808329674213, 68.0, 67.31625417591749)
+2022-10-09 17:36:37 [INFO] LateAlways lost connection: disconnect.quitting
+2022-10-09 17:36:37 [INFO] Connection reset
+2022-10-09 17:36:39 [INFO] LateAlways[/127.0.0.1:58389] logged in with entity id 10172 at ([world] -101.15200264713815, 68.0, 131.6437897118699)
+2022-10-09 17:36:49 [INFO] LateAlways lost connection: disconnect.quitting
+2022-10-09 17:36:49 [INFO] Connection reset
+2022-10-09 17:36:50 [INFO] LateAlways[/127.0.0.1:58410] logged in with entity id 10406 at ([world] -128.30000001192093, 72.0, 134.19659798384464)
+2022-10-09 17:37:06 [INFO] LateAlways lost connection: disconnect.quitting
+2022-10-09 17:37:06 [INFO] Connection reset
+2022-10-09 17:37:08 [INFO] LateAlways[/127.0.0.1:58954] logged in with entity id 10663 at ([world] -89.70748047501523, 74.0, 163.8624922537262)
+2022-10-09 17:37:17 [INFO] LateAlways lost connection: disconnect.quitting
+2022-10-09 17:37:17 [INFO] Connection reset
+2022-10-09 17:37:18 [INFO] LateAlways[/127.0.0.1:58980] logged in with entity id 10844 at ([world] -97.91036287978206, 73.0, 162.9831201492784)
+2022-10-09 17:38:47 [INFO] LateAlways lost connection: disconnect.quitting
+2022-10-09 17:38:47 [INFO] Connection reset
+2022-10-09 17:38:51 [INFO] LateAlways[/127.0.0.1:59056] logged in with entity id 12343 at ([world] -50.358094178108594, 67.23152379758702, 65.05824683930172)
+2022-10-09 17:43:11 [WARNING] Failed to handle packet for LateAlways/127.0.0.1: java.lang.ArrayIndexOutOfBoundsException: Index 10 out of bounds for length 3
+java.lang.ArrayIndexOutOfBoundsException: Index 10 out of bounds for length 3
+	at net.minecraft.server.v1_5_R3.ContainerEnchantTable.a(ContainerEnchantTable.java:152)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.a(PlayerConnection.java:1447)
+	at net.minecraft.server.v1_5_R3.Packet108ButtonClick.handle(SourceFile:19)
+	at net.minecraft.server.v1_5_R3.NetworkManager.b(NetworkManager.java:292)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.d(PlayerConnection.java:115)
+	at net.minecraft.server.v1_5_R3.ServerConnection.b(SourceFile:35)
+	at net.minecraft.server.v1_5_R3.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.r(Unknown Source)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:226)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+2022-10-09 17:43:13 [INFO] LateAlways[/127.0.0.1:59181] logged in with entity id 16089 at ([world] 24.46356271343576, 83.75, 21.975872764835287)
+2022-10-09 17:44:00 [INFO] [0;31;1mUsage: /xp <amount> [player] OR /xp <amount>L [player][m
+
+2022-10-09 17:44:30 [INFO] LateAlways issued server command: /kill
+2022-10-09 17:44:30 [INFO] LateAlways died
+2022-10-09 17:44:48 [INFO] LateAlways lost connection: disconnect.quitting
+2022-10-09 17:44:48 [INFO] Connection reset
+2022-10-09 17:44:50 [INFO] LateAlways[/127.0.0.1:59240] logged in with entity id 18717 at ([world] 60.96838072037595, 76.96999993920319, 110.66992089783668)
+2022-10-09 17:45:38 [WARNING] Failed to handle packet for LateAlways/127.0.0.1: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+	at net.minecraft.server.v1_5_R3.ContainerEnchantTable.a(ContainerEnchantTable.java:152)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.a(PlayerConnection.java:1447)
+	at net.minecraft.server.v1_5_R3.Packet108ButtonClick.handle(SourceFile:19)
+	at net.minecraft.server.v1_5_R3.NetworkManager.b(NetworkManager.java:292)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.d(PlayerConnection.java:115)
+	at net.minecraft.server.v1_5_R3.ServerConnection.b(SourceFile:35)
+	at net.minecraft.server.v1_5_R3.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.r(Unknown Source)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:226)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+2022-10-09 17:45:56 [INFO] LateAlways[/127.0.0.1:59722] logged in with entity id 19605 at ([world] 24.198054381927122, 83.0, 20.817709536890437)
+2022-10-09 17:46:56 [INFO] CONSOLE: Given 100 experience to LateAlways[m
+
+2022-10-09 17:47:32 [INFO] CONSOLE: Given 69 experience to LateAlways[m
+
+2022-10-09 17:47:55 [WARNING] Failed to handle packet for LateAlways/127.0.0.1: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+	at net.minecraft.server.v1_5_R3.ContainerEnchantTable.a(ContainerEnchantTable.java:152)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.a(PlayerConnection.java:1447)
+	at net.minecraft.server.v1_5_R3.Packet108ButtonClick.handle(SourceFile:19)
+	at net.minecraft.server.v1_5_R3.NetworkManager.b(NetworkManager.java:292)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.d(PlayerConnection.java:115)
+	at net.minecraft.server.v1_5_R3.ServerConnection.b(SourceFile:35)
+	at net.minecraft.server.v1_5_R3.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.r(Unknown Source)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:226)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+2022-10-09 17:47:57 [INFO] LateAlways[/127.0.0.1:60063] logged in with entity id 20609 at ([world] 24.198054381927122, 83.0, 20.817709536890437)
+2022-10-09 17:49:02 [INFO] Unknown command. Type "help" for help.[m
+
+2022-10-09 17:49:08 [INFO] CONSOLE: Given 1000 experience to LateAlways[m
+
+2022-10-09 17:53:27 [INFO] LateAlways lost connection: disconnect.quitting
+2022-10-09 17:53:27 [INFO] Connection reset
+2022-10-09 17:53:41 [INFO] LateAlways[/127.0.0.1:60375] logged in with entity id 22871 at ([world] 23.298158324225575, 83.75, 21.950978290519124)
+2022-10-09 18:04:19 [INFO] LateAlways lost connection: disconnect.quitting
+2022-10-09 18:04:19 [INFO] Connection reset
+2022-10-09 18:46:34 [INFO] CONSOLE: Stopping the server..[m
+
+2022-10-09 18:46:34 [INFO] Stopping server
+2022-10-09 18:46:34 [INFO] Saving players
+2022-10-09 18:46:34 [WARNING] DSCT: Socket closed
+2022-10-09 18:46:34 [INFO] Saving worlds
+2022-10-09 18:46:34 [INFO] Closing listening thread
+2022-10-09 18:46:34 [INFO] Saving chunks for level 'world'/Overworld
+2022-10-09 18:46:34 [INFO] Saving chunks for level 'world_nether'/Nether
+2022-10-09 18:46:34 [INFO] Saving chunks for level 'world_the_end'/The End
+2022-10-09 18:46:34 [INFO] Stopping server

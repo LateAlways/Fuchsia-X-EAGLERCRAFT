@@ -1,0 +1,132 @@
+origin_blacklist_use_simple_whitelist: false
+display_ban_type_on_kick: false
+server_name: EaglercraftBungee Server
+token_verify: ''
+groups: {}
+servers:
+  lobby:
+    address: localhost:25569
+    restricted: false
+voice_stun_servers:
+- stun:stun.l.google.com:19302
+- stun:stun1.l.google.com:19302
+- stun:stun2.l.google.com:19302
+- stun:stun3.l.google.com:19302
+- stun:stun4.l.google.com:19302
+- stun:openrelay.metered.ca:80
+enable_web_origin_blacklist: true
+origin_blacklist_simple_whitelist:
+- type the name of your client's domain here
+- (if 'origin_blacklist_use_simple_whitelist' is true)
+- g.lax1dude.net
+protocol_support_fix: false
+origin_blacklist_subscriptions:
+- https://g.lax1dude.net/eaglercraft/origin_blacklist.txt
+- https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+listeners:
+- fallback_server: lobby
+  tab_list: GLOBAL_PING
+  websocket: true
+  texture_size: 16
+  host: 0.0.0.0:25565
+  forced_hosts: {}
+  max_players: 60
+  tab_size: 60
+  default_server: lobby
+  force_default_server: true
+  forward_ip: false
+  server_icon: server-icon.png
+  motd1: '&6An Eaglercraft server'
+  allow_motd: true
+  allow_query: true
+  request_motd_cache:
+    cache_ttl: 7200
+    online_server_list_animation: false
+    online_server_list_results: true
+    online_server_list_trending: true
+    online_server_list_portfolios: false
+  ratelimit:
+    ip:
+      enable: true
+      period: 90
+      limit: 60
+      limit_lockout: 80
+      lockout_duration: 1200
+      exceptions: []
+    login:
+      enable: true
+      period: 50
+      limit: 5
+      limit_lockout: 10
+      lockout_duration: 300
+      exceptions: []
+    motd:
+      enable: true
+      period: 30
+      limit: 5
+      limit_lockout: 15
+      lockout_duration: 300
+      exceptions: []
+    query:
+      enable: true
+      period: 30
+      limit: 15
+      limit_lockout: 25
+      lockout_duration: 900
+      exceptions: []
+  forward_ip_header: X-Real-IP
+  java_host: 'null'
+origin_blacklist_block_invalid_origin_header: true
+voice_enabled: true
+player_limit: -1
+origin_blacklist_block_offline_download: false
+accept_bukkit_console_command_packets: false
+authservice:
+  authfile: auths.db
+  register_enabled: true
+  ip_limit: 0
+  join_messages:
+  - '&3Welcome to my &aEaglercraftBungee &3server!'
+  login_timeout: 30
+  enabled: false
+disabled_commands: []
+bungee_on_bungee: false
+origin_blacklist_block_replit_clients: false
+stats: 1795b100-6c57-4568-957f-810efbd77cc3
+timeout: 30000
+permissions:
+  default:
+  - bungeecord.command.server
+  - bungeecord.command.list
+  - bungeecord.command.eag.domain
+  - bungeecord.command.eag.changepassword
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
+  - bungeecord.command.eag.ban
+  - bungeecord.command.eag.banwildcard
+  - bungeecord.command.eag.banip
+  - bungeecord.command.eag.banregex
+  - bungeecord.command.eag.reloadban
+  - bungeecord.command.eag.banned
+  - bungeecord.command.eag.banlist
+  - bungeecord.command.eag.unban
+  - bungeecord.command.eag.ratelimit
+  - bungeecord.command.eag.blockdomain
+  - bungeecord.command.eag.blockdomainname
+  - bungeecord.command.eag.unblockdomain
+voice_turn_servers:
+  openrelay3:
+    password: openrelayproject
+    url: turn:openrelay.metered.ca:443?transport=tcp
+    username: openrelayproject
+  openrelay2:
+    password: openrelayproject
+    url: turn:openrelay.metered.ca:443
+    username: openrelayproject
+  openrelay1:
+    password: openrelayproject
+    url: turn:openrelay.metered.ca:80
+    username: openrelayproject
